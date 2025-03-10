@@ -1,5 +1,5 @@
 # Veykalla
-A Repository for My D&amp;D World
+A Wiki for My D&amp;D World
 
 Veykalla is a land of magic so much so that everyone in born with innate magical abilities, its used in everyday life by most people although not everyone learns to use it past ease of life. The world is filled with a big variety of lands including beach towns ruled by pirates and frozen over cities ruled over with a iron thumb. 
 
